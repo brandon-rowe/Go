@@ -7,5 +7,5 @@ I decided to start learning go because it has the capability of managing and kee
 Example use case would be a chat-room or blockchain transactions. It is also scalable to handle multiple users, accounts or processes.
 </p>
 <h6>Resources</h6>
-<ul><li>[golang-book](http://www.golang-book.com/books/intro/1)</li>
-  <li>[golang-setup](https://golang.org/doc/install?download=go1.11.5.darwin-amd64.pkg)</li></ul>
++[golang-book](http://www.golang-book.com/books/intro/1)
++[golang-setup](https://golang.org/doc/install?download=go1.11.5.darwin-amd64.pkg)
