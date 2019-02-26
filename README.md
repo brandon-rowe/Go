@@ -8,7 +8,7 @@ Example use case would be a chat-room or blockchain transactions. It is also sca
 </p>
 <h6>Resources</h6>
 
-+ [golang-book](https://rogerdudler.github.io/git-guide/)
++ [golang-book](https://www.golang-book.com/)
 + [golang-setup](https://golang.org/doc/install?download=go1.11.5.darwin-amd64.pkg)
 
 
