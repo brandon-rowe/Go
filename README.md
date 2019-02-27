@@ -2,9 +2,7 @@
 independent study of go lang
 
 <p>
-I will be uploading random projects from go lang book.
-  
-I decided to start learning go because it has the ability to keep and manage multiple connections at the same time.
+I decided to start learning go because of it's ability to keep and manage multiple connections at the same time.
 
 Example use case would be operating a chat-room or processing blockchain transactions. 
 
