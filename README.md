@@ -2,15 +2,18 @@
 independent study of go lang
 
 <p>
-I will be uploading random projects from go lang.
-I decided to start learning go because it has the capability of managing and keeping multiple connections at the same time.
-Example use case would be a chat-room or blockchain transactions. It is also scalable to handle multiple users, accounts or processes.
+I will be uploading random projects from go lang book.
+  
+I decided to start learning go because it has the ability to keep and manage multiple connections at the same time.
+
+Example use case would be operating a chat-room or processing blockchain transactions. 
+
+It is also scalable to handle multiple users, accounts or processes.
 </p>
 <h6>Resources</h6>
 
 + [golang-book](https://www.golang-book.com/)
 + [golang-setup](https://golang.org/doc/install?download=go1.11.5.darwin-amd64.pkg)
-
 
 
 Extra links that help with github.
