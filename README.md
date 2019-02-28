@@ -13,6 +13,8 @@ It is also scalable to handle multiple users, accounts or processes.
 + [golang-book](https://www.golang-book.com/)
 + [golang-setup](https://golang.org/doc/install?download=go1.11.5.darwin-amd64.pkg)
 + [golang-tour](https://tour.golang.org/concurrency/6)
++ [golang-documenting](https://blog.golang.org/godoc-documenting-go-code)
+
 
 
 
