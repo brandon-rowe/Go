@@ -3,10 +3,6 @@ independent study of go lang
 
 <p>
 I decided to start learning go because of it's ability to keep and manage multiple connections at the same time.<br>
-
-Example use case would be operating a chat-room or processing blockchain transactions. <br>
-
-It is also scalable to handle multiple users, accounts or processes.
 </p>
 <h6>Resources</h6>
 
