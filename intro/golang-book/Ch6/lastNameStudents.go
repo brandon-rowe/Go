@@ -1,3 +1,8 @@
+//This func creates an array of strings.
+//Array size is determined by user input.
+//Once array size is determed, a loop allows
+//user to input first name os students.
+
 package main
 
 import "fmt"
@@ -7,23 +12,21 @@ func main() {
 	var x int
 	fmt.Scanln(&x)
 	fname := make([]string, x)
-	for i:=1; i<x+1; i++{
-		fmt.Print("Please enter the first name of student ",i,": " )
+	for i:=0; i<x; i++{
+		fmt.Print("Please enter the first name: ")
 		var tmp string
 		fmt.Scanln(&tmp)
 		fname[i] = tmp
 	}
+	fmt.Println(fname)
 
 	lname := make([]string, x)
   	for i:=0; i<x; i++{
-	    fmt.Print("Please enter the last name: ")
+	    fmt.Print("Please enter the first name: ")
 	    var tmp string
 	    fmt.Scanln(&tmp)
 	    lname[i] = tmp
 	}
-	fmt.Println("Students' first names are: ")
-	fmt.Println(fname)
-	fmt.Println("Students' last names are: ")
   	fmt.Println(lname)
 }
 
