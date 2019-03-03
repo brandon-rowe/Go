@@ -19,14 +19,12 @@ func main() {
 		fname[i] = tmp
 	}
 	fmt.Println(fname)
-
-	lname := make([]string, x)
-  	for i:=0; i<x; i++{
-	    fmt.Print("Please enter the first name: ")
-	    var tmp string
-	    fmt.Scanln(&tmp)
-	    lname[i] = tmp
-	}
-  	fmt.Println(lname)
 }
 
+
+//What I learned.
+//go does not permit assignment of array length 
+//from a calculated var at runtime.
+//Ex. var fname [x]string
+
+//Must use make like in line 14
