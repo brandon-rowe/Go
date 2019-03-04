@@ -16,6 +16,7 @@ func main(){
   fmt.Println(x)
   array()
 }
+//connected two array functions from ch6
 
 func array(){
   var x [5]float64
