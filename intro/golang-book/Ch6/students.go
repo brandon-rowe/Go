@@ -7,8 +7,8 @@ func main() {
 	var x int
 	fmt.Scanln(&x)
 	fname := make([]string, x)
-	for i:=1; i<x+1; i++{
-		fmt.Print("Please enter the first name of student ",i,": " )
+	for i:=0; i<x; i++{
+		fmt.Print("Please enter the first name of student ",i+1,": " )
 		var tmp string
 		fmt.Scanln(&tmp)
 		fname[i] = tmp
@@ -16,7 +16,7 @@ func main() {
 
 	lname := make([]string, x)
   	for i:=0; i<x; i++{
-	    fmt.Print("Please enter the last name of student ",i,": " )
+	    fmt.Print("Please enter the last name of student ",i+1,": " )
 	    var tmp string
 	    fmt.Scanln(&tmp)
 	    lname[i] = tmp
@@ -28,7 +28,7 @@ func main() {
   	fmt.Println()
 
   	for i:=0; i<x; i++{
-  		fmt.Println("Student ",i," is : ", fname[i], lname[i])
+  		fmt.Println("Student ",i+1,": ", fname[i], lname[i])
   	}
 }
 
