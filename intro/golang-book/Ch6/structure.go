@@ -11,8 +11,8 @@ type Student struct{
 	FristName, LastName string
 }
 
-func (u Student) Greeting() string {
-	return fmt.Sprintf("Dear %s %s", u.FirstName, u.LastName,"/t Welcome to go!")
+func (u Student) FullName() string {
+	return fmt.Sprintf("Student",i+1,"%s %s", u.FirstName, u.LastName,"/t Welcome to go!")
 }
 
 func main() {
@@ -29,6 +29,8 @@ func main() {
 		fmt.Print("Please enter the last name of student ",i+1,": " )
 	    fmt.Scanln(&tmp)
 	    lname[i] = tmp
+	    u := Student{fname[i], lname[i]}
+	    fmt.Println(u.FullName())
 	}
   	fmt.Println()
 
