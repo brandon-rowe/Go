@@ -12,7 +12,7 @@ I decided to start learning go because of it's ability to keep and manage multip
 + [golang-documenting](https://blog.golang.org/godoc-documenting-go-code)
 + [golang-examples](https://gobyexample.com/)
 + [golang-bootcamp](http://www.golangbootcamp.com/book/frontmatter)
-
++ [golang-search min/max](https://stackoverflow.com/questions/34259800/is-there-a-built-in-min-function-for-a-slice-of-int-arguments-or-a-variable-numb)
 
 Extra links that help with github.
 + [Github Getting Started](https://rogerdudler.github.io/git-guide/)
