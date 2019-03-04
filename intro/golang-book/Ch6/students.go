@@ -16,7 +16,7 @@ func main() {
 
 	lname := make([]string, x)
   	for i:=0; i<x; i++{
-	    fmt.Print("Please enter the last name: ")
+	    fmt.Print("Please enter the last name of student ",i,": " )
 	    var tmp string
 	    fmt.Scanln(&tmp)
 	    lname[i] = tmp
@@ -25,5 +25,10 @@ func main() {
 	fmt.Println(fname)
 	fmt.Println("Students' last names are: ")
   	fmt.Println(lname)
+  	fmt.Println()
+
+  	for i:=0; i<x; i++{
+  		fmt.Println("Student ",i," is : ", fname[i], lname[i])
+  	}
 }
 
