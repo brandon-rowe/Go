@@ -13,9 +13,10 @@ I decided to start learning go because of it's ability to keep and manage multip
 + [golang-examples](https://gobyexample.com/)
 + [golang-bootcamp](http://www.golangbootcamp.com/book/frontmatter)
 + [golang-search min/max](https://stackoverflow.com/questions/34259800/is-there-a-built-in-min-function-for-a-slice-of-int-arguments-or-a-variable-numb)
-
-
 + [wiki](https://en.wikipedia.org/wiki/Go_(programming_language))
++ [Machine Learning with Go](https://github.com/brandon-rowe/my-books/blob/master/machinelearningwithgo.pdf)
+
+
 
 
 Extra links that help with github.
