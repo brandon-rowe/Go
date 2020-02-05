@@ -1,9 +1,6 @@
 # go
 independent study of go lang
 
-<p>
-I decided to start learning go because of it's ability to keep and manage multiple connections at the same time.<br>
-</p>
 <h6>Resources</h6>
 
 + [golang-book](https://www.golang-book.com/)
